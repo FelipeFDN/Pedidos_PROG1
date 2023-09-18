@@ -12,4 +12,10 @@ public class Produto {
     }public Double getValor(){
         return this.valor;
     }
+    public int getCodigo() {
+        return codigo;
+    }
+    public String getDescr() {
+        return descr;
+    }
 }
